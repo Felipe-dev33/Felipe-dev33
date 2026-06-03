@@ -28,7 +28,7 @@ Migrando de <strong>RH</strong> para o mundo da <strong>tecnologia</strong> <br>
 
 -  [LinkedIn](https://www.linkedin.com/in/felipe-alves1999) 
 -  Email: felipealves9900@outlook.com
--  [Site/Portfólio:] (https://felipe-dev33.github.io/controle-financeiro/)
+-  [Site/Portfólio:] https://felipe-dev33.github.io/controle-financeiro/
 
 ---
 
