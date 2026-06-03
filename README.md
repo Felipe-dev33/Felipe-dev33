@@ -1,22 +1,23 @@
-<h1 align="center">👋 Olá! Eu sou o Felipe Alves</h1>
+<h1 align="center">Olá! Eu sou o Felipe Alves</h1>
 
 <p align="center">
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na PUC <br>
-🧠 Migrando de <strong>RH</strong> para o mundo da <strong>tecnologia</strong> <br>
-🏋️ Apaixonado por desafios, evolução pessoal e tecnologia <br>
+ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na PUC <br>
+Migrando de <strong>RH</strong> para o mundo da <strong>tecnologia</strong> <br>
+ Apaixonado por desafios, evolução pessoal e tecnologia <br>
 </p>
 
 ---
 
-## 🚀 Tecnologias em aprendizado
+## Tecnologias em aprendizado
 
-- ✅ HTML5, CSS3, JavaScript
-- 🔄 Git & GitHub
-- 🌱 Atualmente estudando: **React**, **Node.js**, **PostgreSQL**
+-  HTML5, CSS3, JavaScript
+-  Git & GitHub
+-  Atualmente estudando: **React**, **Node.js**, **PostgreSQL**
 
 ---
 
-## 📂 Meus projetos (em breve...)
+## 📂 Meus projetos
+
 
 🔧 Portfólio em construção com projetos práticos e reais.  
 📌 Incluindo ideias de sistemas baseados em **Recursos Humanos** e **fitness**, que fazem parte da minha trajetória.
