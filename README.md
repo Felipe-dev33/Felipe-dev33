@@ -16,7 +16,7 @@ Migrando de <strong>RH</strong> para o mundo da <strong>tecnologia</strong> <br>
 
 ---
 
-## 📂 Meus projetos
+##  Meus projetos
 
 
 🔧 Portfólio em construção com projetos práticos e reais.  
@@ -24,11 +24,11 @@ Migrando de <strong>RH</strong> para o mundo da <strong>tecnologia</strong> <br>
 
 ---
 
-## 📫 Vamos nos conectar?
+##  Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-alves1999) 
-- 📬 Email: felipealves9900@outlook.com
-- 🖥️ Site/Portfólio: *em breve...*
+-  [LinkedIn](https://www.linkedin.com/in/felipe-alves1999) 
+-  Email: felipealves9900@outlook.com
+-  [Site/Portfólio:] (https://felipe-dev33.github.io/controle-financeiro/)
 
 ---
 
